@@ -1,0 +1,16 @@
+Category 1,Category 2,Correlation
+Meat,"Milk, cheese and eggs",0.8851490526876774
+Bread and cereals,Meat,0.7170537510798951
+Bread and cereals,"Milk, cheese and eggs",0.4512245780524693
+Meat,Fruit,0.21737415674488367
+Bread and cereals,Fruit,0.21350829874439967
+"Milk, cheese and eggs",Fruit,0.08146433455383273
+Bread and cereals,Oils and fats,
+Bread and cereals,Vegetables,
+Meat,Oils and fats,
+Meat,Vegetables,
+"Milk, cheese and eggs",Oils and fats,
+"Milk, cheese and eggs",Vegetables,
+Oils and fats,Fruit,
+Oils and fats,Vegetables,
+Fruit,Vegetables,

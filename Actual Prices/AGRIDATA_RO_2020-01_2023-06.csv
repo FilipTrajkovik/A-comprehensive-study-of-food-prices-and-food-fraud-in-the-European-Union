@@ -1,0 +1,253 @@
+Year/Month,Category,Price
+2020/01,Bread and cereals,1.6180768125
+2020/02,Bread and cereals,1.6884291458333331
+2020/03,Bread and cereals,1.6665135625
+2020/04,Bread and cereals,1.6735292083333333
+2020/05,Bread and cereals,1.7586844
+2020/06,Bread and cereals,1.5697061666666667
+2020/07,Bread and cereals,1.5162616999999998
+2020/08,Bread and cereals,1.54146755
+2020/09,Bread and cereals,1.5942833
+2020/10,Bread and cereals,1.70236205
+2020/11,Bread and cereals,1.7760226833333337
+2020/12,Bread and cereals,1.8205063
+2021/01,Bread and cereals,1.9256089833333332
+2021/02,Bread and cereals,1.9578061166666665
+2021/03,Bread and cereals,1.973545833333333
+2021/04,Bread and cereals,1.9847110166666664
+2021/05,Bread and cereals,1.9933713
+2021/06,Bread and cereals,1.88143925
+2021/07,Bread and cereals,1.8428016666666664
+2021/08,Bread and cereals,1.8980682166666667
+2021/09,Bread and cereals,1.999914083333333
+2021/10,Bread and cereals,2.0741989
+2021/11,Bread and cereals,2.2734375
+2021/12,Bread and cereals,2.2905542666666667
+2022/01,Bread and cereals,2.409614055555556
+2022/02,Bread and cereals,2.4868936333333336
+2022/03,Bread and cereals,2.8241102
+2022/04,Bread and cereals,2.919033183333333
+2022/05,Bread and cereals,3.0756724666666666
+2022/06,Bread and cereals,3.164366116666667
+2022/07,Bread and cereals,3.145748933333333
+2022/08,Bread and cereals,3.306630333333333
+2022/09,Bread and cereals,3.2072476666666665
+2022/10,Bread and cereals,3.22629575
+2022/11,Bread and cereals,3.1503305500000005
+2022/12,Bread and cereals,2.983641266666667
+2023/01,Bread and cereals,2.958953283333334
+2023/02,Bread and cereals,2.8711770333333333
+2023/03,Bread and cereals,2.7271635
+2023/04,Bread and cereals,2.338674833333333
+2023/05,Bread and cereals,2.477138133333333
+2023/06,Bread and cereals,2.0423965666666666
+2020/01,Fruit,0.5766795
+2020/02,Fruit,0.606744
+2020/03,Fruit,0.613585
+2020/04,Fruit,0.7449250000000001
+2020/05,Fruit,0.51637
+2020/06,Fruit,0.7329304999999999
+2020/07,Fruit,0.57954
+2020/08,Fruit,0.554369
+2020/09,Fruit,0.631802
+2020/10,Fruit,0.6873100000000001
+2020/11,Fruit,0.7231520000000001
+2020/12,Fruit,0.4964119999999999
+2021/01,Fruit,0.4796289999999999
+2021/02,Fruit,0.415386
+2021/03,Fruit,0.432338
+2021/04,Fruit,0.4327345
+2021/05,Fruit,0.4388999999999999
+2021/06,Fruit,0.7650350000000001
+2021/07,Fruit,0.560501
+2021/08,Fruit,0.504366
+2021/09,Fruit,0.51265025
+2021/10,Fruit,0.42981875
+2021/11,Fruit,0.5081625000000001
+2021/12,Fruit,0.467038
+2022/01,Fruit,0.4940715
+2022/02,Fruit,0.511421
+2022/03,Fruit,0.5097174999999999
+2022/04,Fruit,0.521772
+2022/05,Fruit,0.495225
+2022/06,Fruit,1.8908996666666664
+2022/07,Fruit,1.457152
+2022/08,Fruit,1.479133
+2022/09,Fruit,1.173908
+2022/10,Fruit,1.2069696
+2022/11,Fruit,0.6553885
+2022/12,Fruit,0.7307255
+2023/01,Fruit,0.5832743333333333
+2023/02,Fruit,0.5846023333333333
+2023/03,Fruit,0.6246096666666666
+2023/04,Fruit,0.6026735000000001
+2023/05,Fruit,
+2023/06,Fruit,2.424674
+2020/01,Meat,2.776189363636364
+2020/02,Meat,2.7085398
+2020/03,Meat,2.8240786363636365
+2020/04,Meat,2.8429597
+2020/05,Meat,2.678725363636364
+2020/06,Meat,2.6844901818181817
+2020/07,Meat,2.750579
+2020/08,Meat,2.698712
+2020/09,Meat,2.668926363636364
+2020/10,Meat,2.640369727272727
+2020/11,Meat,2.582476636363636
+2020/12,Meat,2.6387079090909094
+2021/01,Meat,2.571615909090909
+2021/02,Meat,2.6743101818181816
+2021/03,Meat,2.821187090909091
+2021/04,Meat,2.8238267272727278
+2021/05,Meat,2.6942432
+2021/06,Meat,2.6825094
+2021/07,Meat,2.8361874545454544
+2021/08,Meat,2.8128485000000003
+2021/09,Meat,2.5882631
+2021/10,Meat,2.6655409
+2021/11,Meat,2.6535785
+2021/12,Meat,2.690990727272727
+2022/01,Meat,2.671597636363636
+2022/02,Meat,2.6920642
+2022/03,Meat,3.0492875
+2022/04,Meat,3.632154
+2022/05,Meat,3.5806287272727277
+2022/06,Meat,3.6753084
+2022/07,Meat,3.8050414
+2022/08,Meat,3.848076363636364
+2022/09,Meat,3.8667588
+2022/10,Meat,3.7786982
+2022/11,Meat,3.7237577
+2022/12,Meat,3.318419555555556
+2023/01,Meat,3.2807677777777777
+2023/02,Meat,3.4660559
+2023/03,Meat,3.6722612
+2023/04,Meat,3.8302115
+2023/05,Meat,3.725544545454546
+2023/06,Meat,3.924601636363637
+2020/01,"Milk, cheese and eggs",0.7140365
+2020/02,"Milk, cheese and eggs",0.6627115
+2020/03,"Milk, cheese and eggs",0.6478765
+2020/04,"Milk, cheese and eggs",0.6467455
+2020/05,"Milk, cheese and eggs",0.5990995
+2020/06,"Milk, cheese and eggs",0.5951205
+2020/07,"Milk, cheese and eggs",0.6078825
+2020/08,"Milk, cheese and eggs",0.6032755000000001
+2020/09,"Milk, cheese and eggs",0.6118494999999999
+2020/10,"Milk, cheese and eggs",0.6554755
+2020/11,"Milk, cheese and eggs",0.730359
+2020/12,"Milk, cheese and eggs",0.741716
+2021/01,"Milk, cheese and eggs",0.730301
+2021/02,"Milk, cheese and eggs",0.7395165
+2021/03,"Milk, cheese and eggs",0.7209705000000001
+2021/04,"Milk, cheese and eggs",0.6748375
+2021/05,"Milk, cheese and eggs",0.6458955
+2021/06,"Milk, cheese and eggs",0.634552
+2021/07,"Milk, cheese and eggs",0.6333895
+2021/08,"Milk, cheese and eggs",0.6471365
+2021/09,"Milk, cheese and eggs",0.676968
+2021/10,"Milk, cheese and eggs",0.715077
+2021/11,"Milk, cheese and eggs",0.7543074999999999
+2021/12,"Milk, cheese and eggs",0.767621
+2022/01,"Milk, cheese and eggs",0.7728360000000001
+2022/02,"Milk, cheese and eggs",0.7732330000000001
+2022/03,"Milk, cheese and eggs",0.8092515
+2022/04,"Milk, cheese and eggs",0.8830445
+2022/05,"Milk, cheese and eggs",0.889165
+2022/06,"Milk, cheese and eggs",0.8963745
+2022/07,"Milk, cheese and eggs",0.937105
+2022/08,"Milk, cheese and eggs",0.937238
+2022/09,"Milk, cheese and eggs",1.002672
+2022/10,"Milk, cheese and eggs",1.063764
+2022/11,"Milk, cheese and eggs",1.2056675
+2022/12,"Milk, cheese and eggs",1.334508
+2023/01,"Milk, cheese and eggs",1.316864
+2023/02,"Milk, cheese and eggs",1.277855
+2023/03,"Milk, cheese and eggs",1.270055
+2023/04,"Milk, cheese and eggs",1.331462
+2023/05,"Milk, cheese and eggs",1.202026
+2023/06,"Milk, cheese and eggs",1.223707
+2020/01,Oils and fats,
+2020/02,Oils and fats,
+2020/03,Oils and fats,
+2020/04,Oils and fats,
+2020/05,Oils and fats,
+2020/06,Oils and fats,
+2020/07,Oils and fats,
+2020/08,Oils and fats,
+2020/09,Oils and fats,
+2020/10,Oils and fats,
+2020/11,Oils and fats,
+2020/12,Oils and fats,
+2021/01,Oils and fats,
+2021/02,Oils and fats,
+2021/03,Oils and fats,
+2021/04,Oils and fats,
+2021/05,Oils and fats,
+2021/06,Oils and fats,
+2021/07,Oils and fats,
+2021/08,Oils and fats,
+2021/09,Oils and fats,
+2021/10,Oils and fats,
+2021/11,Oils and fats,
+2021/12,Oils and fats,
+2022/01,Oils and fats,
+2022/02,Oils and fats,
+2022/03,Oils and fats,
+2022/04,Oils and fats,
+2022/05,Oils and fats,
+2022/06,Oils and fats,
+2022/07,Oils and fats,
+2022/08,Oils and fats,
+2022/09,Oils and fats,
+2022/10,Oils and fats,
+2022/11,Oils and fats,
+2022/12,Oils and fats,
+2023/01,Oils and fats,
+2023/02,Oils and fats,
+2023/03,Oils and fats,
+2023/04,Oils and fats,
+2023/05,Oils and fats,
+2023/06,Oils and fats,
+2020/01,Vegetables,
+2020/02,Vegetables,
+2020/03,Vegetables,
+2020/04,Vegetables,
+2020/05,Vegetables,
+2020/06,Vegetables,
+2020/07,Vegetables,
+2020/08,Vegetables,0.233216
+2020/09,Vegetables,0.253679
+2020/10,Vegetables,0.1831625
+2020/11,Vegetables,0.199109
+2020/12,Vegetables,
+2021/01,Vegetables,
+2021/02,Vegetables,
+2021/03,Vegetables,
+2021/04,Vegetables,
+2021/05,Vegetables,
+2021/06,Vegetables,
+2021/07,Vegetables,
+2021/08,Vegetables,
+2021/09,Vegetables,0.260351
+2021/10,Vegetables,0.276887
+2021/11,Vegetables,0.322143
+2021/12,Vegetables,0.225285
+2022/01,Vegetables,0.296598
+2022/02,Vegetables,
+2022/03,Vegetables,
+2022/04,Vegetables,
+2022/05,Vegetables,
+2022/06,Vegetables,
+2022/07,Vegetables,
+2022/08,Vegetables,0.289377
+2022/09,Vegetables,0.238613
+2022/10,Vegetables,0.285363
+2022/11,Vegetables,0.09775
+2022/12,Vegetables,0.121796
+2023/01,Vegetables,
+2023/02,Vegetables,
+2023/03,Vegetables,
+2023/04,Vegetables,
+2023/05,Vegetables,
+2023/06,Vegetables,
